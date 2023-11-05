@@ -1,4 +1,4 @@
-import HomePageSection from "@/components/homePage/HomePageSection";
+import HomePageSection from "@/components/HomePage/HomePageSection";
 import React from "react";
 
 export default function Home() {
