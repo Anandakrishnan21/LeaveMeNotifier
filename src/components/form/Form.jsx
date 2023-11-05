@@ -92,7 +92,7 @@ function Form() {
   };
 
   return (
-    <div className="bg-gradient-to-r from-indigo-50 via-indigo-100 to-indigo-50 flex flex-col items-center">
+    <div className="bg-gradient-to-r from-indigo-50 via-indigo-100 to-indigo-50 flex flex-col items-center md:h-screen">
       <form className="font-custom text-sm w-5/6 md:w-5/12 bg-white p-2 border-2 border-gray-200 flex flex-col gap-6 my-10 py-10 rounded-xl">
         <div className="w-5/6 flex flex-col m-auto gap-2">
           <h1 className="text-lg font-semibold">Sender&apos;s Address Details</h1>
