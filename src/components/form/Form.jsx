@@ -165,7 +165,7 @@ function Form() {
               value={formData.reason}
               onChange={handleInputChange}
               required
-              className="w-full border-2 border-gray-200 hover-border-gray-500 duration-500 p-1.5 rounded"
+              className="w-full text-gray-800 border-2 border-gray-200 hover-border-gray-500 duration-500 p-1.5 rounded"
             >
               <option value="Sick Leave">Sick Leave</option>
               <option value="Casual Leave">Casual Leave</option>
