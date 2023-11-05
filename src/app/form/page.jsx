@@ -1,4 +1,4 @@
-import Form from '@/components/Form/Form'
+import Form from '@/components/form/Form.jsx'
 import React from 'react'
 
 function FormPage() {
