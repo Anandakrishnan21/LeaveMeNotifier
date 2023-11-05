@@ -12,6 +12,12 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      fontFamily:{
+        custom: ['Noto Sans JP', 'sans-serif'],
+      },
+      boxShadow:{
+        custom: '0 0 10px rgba(0, 0, 0, 0.18)'
+      }
     },
   },
   plugins: [],
